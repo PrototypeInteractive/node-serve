@@ -1,17 +1,17 @@
-# serve
+# static-serve
 
 A simple development server for static html.
 
-`node-serve` serves your static html files from the root you specify with gzip compression and optional http authentication.
+`static-serve` serves your static html files from the root you specify with gzip compression and optional http authentication.
 
 
 ## Installation
 
-    $ npm install node-serve -g
+    $ npm install static-serve -g
 
 ## Usage
 
-    $ serve /path/to/html
+    $ static-serve /path/to/html
 
 ### Browse
 
