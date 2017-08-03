@@ -18,5 +18,20 @@
     "compression": "^1.7.0",
     "express": "^4.15.3",
     "serve-static": "^1.12.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrototypeInteractive/node-serve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PrototypeInteractive/node-serve/issues"
+  },
+  "homepage": "https://github.com/PrototypeInteractive/node-serve#readme",
+  "keywords": [
+    "node",
+    "serve",
+    "static",
+    "web"
+  ]
 }
